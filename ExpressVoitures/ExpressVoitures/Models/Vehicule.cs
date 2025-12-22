@@ -8,12 +8,6 @@ namespace ExpressVoitures.Models
         public string CodeVIN { get; set; }
         public int Annee { get; set; }
 
-        public int MarqueId { get; set; }
-        public Marque Marque { get; set; }
-
-        public int ModeleId { get; set; }
-        public Modele Modele { get; set; }
-
         public int FinitionId { get; set; }
         public Finition Finition { get; set; }
 
