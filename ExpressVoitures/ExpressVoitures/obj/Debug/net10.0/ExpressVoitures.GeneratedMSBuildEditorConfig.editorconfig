@@ -38,12 +38,72 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Marques/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Marques/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Marques/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Marques/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Marques/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Modeles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Modeles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Modeles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Modeles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Modeles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Vehicules/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Vehicules/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Vehicules/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Vehicules/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/Vehicules/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWN1bGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lebre/Documents/projet5corriger/ExpressVoitures/ExpressVoitures/Views/_ViewImports.cshtml]
