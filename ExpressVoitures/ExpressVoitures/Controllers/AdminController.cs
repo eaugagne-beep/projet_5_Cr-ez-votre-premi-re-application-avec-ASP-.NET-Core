@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
-[Authorize(Roles = "Admin")] // Restreindre l'accès aux administrateurs
+// Restreindre l'accès aux administrateurs
+
+[Authorize(Roles = "Admin")] 
 public class AdminController : Controller
 {
     private readonly UserManager<IdentityUser> _userManager;

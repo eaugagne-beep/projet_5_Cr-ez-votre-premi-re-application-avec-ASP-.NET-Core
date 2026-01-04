@@ -13,7 +13,8 @@ namespace ExpressVoitures.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> Index() // Afficher la liste des véhicules récents
+        // Afficher la liste des véhicules récents
+        public async Task<IActionResult> Index() 
         {
             var vehicules = await _context.Vehicules
                 .Include(v => v.Marque)

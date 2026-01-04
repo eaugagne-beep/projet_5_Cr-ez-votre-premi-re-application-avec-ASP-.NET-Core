@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\vehicules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\vehicules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\reparations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\reparations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\services\\vehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\services\\vehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\services\\interfaces\\ivehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\services\\interfaces\\ivehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\typereparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\typereparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\reparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\reparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\modele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\modele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\finition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\finition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\data\\seed\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\data\\seed\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\controllers\\vehiculescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +85,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\vehicules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\vehicules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,62 +123,6 @@
       "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\services\\vehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\services\\vehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\services\\interfaces\\ivehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\services\\interfaces\\ivehiculeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\typereparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\typereparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\reparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\reparation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\modele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\modele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\marque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\finition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\finition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\data\\seed\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\data\\seed\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\vehicules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\vehicules\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -139,24 +151,12 @@
       "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\reparations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\reparations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\reparations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\reparations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\reparations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\reparations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\reparations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|solutionrelative:expressvoitures\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9D14B4F-19C8-4348-E4DF-8A10479AECBC}|ExpressVoitures\\ExpressVoitures.csproj|c:\\users\\lebre\\documents\\projet5corriger\\expressvoitures\\expressvoitures\\expressvoitures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -194,258 +194,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T12:10:52.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T14:42:39.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T14:44:40.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T12:09:08.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "ExpressVoitures\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T22:47:49.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ExpressVoitures\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T23:12:09.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReparationsController.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\ReparationsController.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\ReparationsController.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\ReparationsController.cs",
-              "RelativeToolTip": "ExpressVoitures\\Controllers\\ReparationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:02:43.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VehiculesController.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\VehiculesController.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\VehiculesController.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\VehiculesController.cs",
-              "RelativeToolTip": "ExpressVoitures\\Controllers\\VehiculesController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwBoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T21:36:45.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T23:50:12.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T23:50:16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T12:14:53.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DeleteUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-27T23:26:15.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-03T23:50:11.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VehiculeService.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\VehiculeService.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Services\\VehiculeService.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\VehiculeService.cs",
-              "RelativeToolTip": "ExpressVoitures\\Services\\VehiculeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:36:26.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IVehiculeService.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
-              "RelativeToolTip": "ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:34:52.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TypeReparation.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\TypeReparation.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\TypeReparation.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\TypeReparation.cs",
-              "RelativeToolTip": "ExpressVoitures\\Models\\TypeReparation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:04:32.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Vehicule.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Vehicule.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Vehicule.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Vehicule.cs",
-              "RelativeToolTip": "ExpressVoitures\\Models\\Vehicule.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:18:03.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Reparation.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Reparation.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Reparation.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Reparation.cs",
-              "RelativeToolTip": "ExpressVoitures\\Models\\Reparation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:20:10.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Modele.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Modele.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Modele.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Modele.cs",
-              "RelativeToolTip": "ExpressVoitures\\Models\\Modele.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:16:38.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 12,
               "Title": "Marque.cs",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Marque.cs",
               "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Marque.cs",
@@ -458,7 +211,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
+              "Title": "Modele.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Modele.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Modele.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Modele.cs",
+              "RelativeToolTip": "ExpressVoitures\\Models\\Modele.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:16:38.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reparation.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Reparation.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Reparation.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Reparation.cs",
+              "RelativeToolTip": "ExpressVoitures\\Models\\Reparation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:20:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TypeReparation.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\TypeReparation.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\TypeReparation.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\TypeReparation.cs",
+              "RelativeToolTip": "ExpressVoitures\\Models\\TypeReparation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:04:32.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Vehicule.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Vehicule.cs",
+              "RelativeToolTip": "ExpressVoitures\\Models\\Vehicule.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:18:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVehiculeService.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
+              "RelativeToolTip": "ExpressVoitures\\Services\\Interfaces\\IVehiculeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:34:52.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehiculeService.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\VehiculeService.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Services\\VehiculeService.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Services\\VehiculeService.cs",
+              "RelativeToolTip": "ExpressVoitures\\Services\\VehiculeService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:36:26.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Admin\\DeleteUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T23:26:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T22:51:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T12:10:52.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T17:35:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Reparations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Create.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Reparations\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T23:44:19.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Program.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Program.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Program.cs",
+              "RelativeToolTip": "ExpressVoitures\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:31:07.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Finition.cs",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\Finition.cs",
               "RelativeDocumentMoniker": "ExpressVoitures\\Models\\Finition.cs",
@@ -471,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ExpressVoitures\\Models\\ErrorViewModel.cs",
@@ -484,20 +393,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAGMAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T23:35:08.898Z",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExpressVoitures\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T22:29:01.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 16,
               "Title": "IdentitySeeder.cs",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Data\\Seed\\IdentitySeeder.cs",
               "RelativeDocumentMoniker": "ExpressVoitures\\Data\\Seed\\IdentitySeeder.cs",
@@ -510,20 +419,156 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Program.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Program.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Program.cs",
-              "RelativeToolTip": "ExpressVoitures\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "VehiculesController.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\VehiculesController.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\VehiculesController.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\VehiculesController.cs",
+              "RelativeToolTip": "ExpressVoitures\\Controllers\\VehiculesController.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAAwPwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:31:07.529Z",
+              "WhenOpened": "2025-12-29T21:36:45.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
+              "Title": "ReparationsController.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\ReparationsController.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\ReparationsController.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\ReparationsController.cs",
+              "RelativeToolTip": "ExpressVoitures\\Controllers\\ReparationsController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:02:43.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpressVoitures\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:12:09.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ExpressVoitures\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T22:47:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Vehicules\\Details.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T12:14:53.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T23:50:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T23:50:12.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T12:09:08.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T14:44:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T14:42:39.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-03T23:50:11.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
+              "RelativeToolTip": "ExpressVoitures\\Views\\Vehicules\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAGMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T23:35:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\appsettings.json",
               "RelativeDocumentMoniker": "ExpressVoitures\\appsettings.json",
@@ -531,12 +576,11 @@
               "RelativeToolTip": "ExpressVoitures\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-22T22:36:43.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T22:36:43.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Edit.cshtml",
               "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Vehicules\\Edit.cshtml",
@@ -548,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Delete.cshtml",
               "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Vehicules\\Delete.cshtml",
@@ -560,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "20260103083238_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Migrations\\20260103083238_InitialCreate.cs",
               "RelativeDocumentMoniker": "ExpressVoitures\\Migrations\\20260103083238_InitialCreate.cs",
@@ -569,19 +613,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T08:32:38.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ExpressVoitures\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:29:01.036Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -597,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Index.cshtml",
               "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Reparations\\Index.cshtml",
@@ -609,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Vehicules\\Create.cshtml",
               "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Vehicules\\Create.cshtml",
@@ -621,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Edit.cshtml",
               "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Reparations\\Edit.cshtml",
@@ -633,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "20260103083427_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Migrations\\20260103083427_InitialCreate.cs",
               "RelativeDocumentMoniker": "ExpressVoitures\\Migrations\\20260103083427_InitialCreate.cs",
@@ -645,19 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T22:51:57.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Details.cshtml",
               "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Reparations\\Details.cshtml",
@@ -669,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Delete.cshtml",
               "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Reparations\\Delete.cshtml",
@@ -678,30 +697,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-02T23:57:31.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Create.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Reparations\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Reparations\\Create.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Reparations\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T23:44:19.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ExpressVoitures\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\lebre\\Documents\\projet5corriger\\ExpressVoitures\\ExpressVoitures\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ExpressVoitures\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-27T17:35:58.421Z"
             },
             {
               "$type": "Document",

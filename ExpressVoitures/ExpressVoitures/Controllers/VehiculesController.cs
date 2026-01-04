@@ -175,11 +175,13 @@ namespace ExpressVoitures.Controllers
             vehiculeDb.EstVendu = estVenduChoisi;
             if (estVenduChoisi)
             {
-                vehiculeDb.DateVente ??= DateTime.Today; // si vendu et aucune date, on met aujourd’hui
+                // si vendu et aucune date, on met aujourd’hui
+                vehiculeDb.DateVente ??= DateTime.Today; 
             }
             else
             {
-                vehiculeDb.DateVente = null; // dispo => pas de date de vente
+                // dispo => pas de date de vente
+                vehiculeDb.DateVente = null; 
             }
 
 
@@ -245,9 +247,6 @@ namespace ExpressVoitures.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool VehiculeExists(int id)
-        {
-            return _context.Vehicules.Any(e => e.VehiculeId == id);
-        }
+       
     }
 }

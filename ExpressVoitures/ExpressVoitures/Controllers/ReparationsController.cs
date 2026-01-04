@@ -8,7 +8,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ExpressVoitures.Controllers
 {
-    [Authorize(Roles = "Admin")] // Restreindre l'accès aux administrateurs
+    // Restreindre l'accès aux administrateurs
+    [Authorize(Roles = "Admin")] 
     public class ReparationsController : Controller
     {
         private readonly ApplicationDbContext _context;
