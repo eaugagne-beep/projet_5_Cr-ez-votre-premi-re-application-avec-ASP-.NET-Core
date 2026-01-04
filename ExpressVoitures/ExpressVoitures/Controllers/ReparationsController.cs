@@ -64,7 +64,7 @@ namespace ExpressVoitures.Controllers
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(Reparation reparation, string? NouveauType)
         {
-            // si l'utilisateur a écrit un nouveau type
+            // Si l'utilisateur a écrit un nouveau type
             if (!string.IsNullOrWhiteSpace(NouveauType))
             {
                 var existing = await _context.TypeReparations
@@ -85,7 +85,7 @@ namespace ExpressVoitures.Controllers
                 }
             }
 
-            // valider et enregistrer
+            // Valider et enregistrer
             if (ModelState.IsValid)
             {
                 _context.Reparations.Add(reparation);
@@ -93,7 +93,7 @@ namespace ExpressVoitures.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            // si erreur, recharger les listes
+            // Si erreur, recharger les listes
             ViewBag.TypeReparationId = new SelectList(_context.TypeReparations, "TypeReparationId", "Nom", reparation.TypeReparationId);
             ViewBag.VehiculeId = new SelectList(_context.Vehicules, "VehiculeId", "CodeVIN", reparation.VehiculeId);
             return View(reparation);

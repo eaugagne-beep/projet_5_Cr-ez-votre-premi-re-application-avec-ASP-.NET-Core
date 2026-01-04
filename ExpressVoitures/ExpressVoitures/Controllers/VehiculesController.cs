@@ -158,7 +158,7 @@ namespace ExpressVoitures.Controllers
                 return View(vehicule);
             }
 
-            // copier champs
+            // Copier champs
             vehiculeDb.CodeVIN = vehicule.CodeVIN;
             vehiculeDb.Annee = vehicule.Annee;
             vehiculeDb.MarqueId = vehicule.MarqueId;
@@ -175,18 +175,18 @@ namespace ExpressVoitures.Controllers
             vehiculeDb.EstVendu = estVenduChoisi;
             if (estVenduChoisi)
             {
-                // si vendu et aucune date, on met aujourd’hui
+                // Si vendu et aucune date, on met aujourd’hui
                 vehiculeDb.DateVente ??= DateTime.Today; 
             }
             else
             {
-                // dispo => pas de date de vente
+                // Dispo => pas de date de vente
                 vehiculeDb.DateVente = null; 
             }
 
 
 
-            // image : seulement si nouveau fichier
+            // Image : seulement si nouveau fichier
             if (imageFile != null && imageFile.Length > 0)
             {
                 var uploadsFolder = Path.Combine(_env.WebRootPath, "uploads");
