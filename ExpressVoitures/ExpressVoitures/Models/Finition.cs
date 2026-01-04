@@ -7,5 +7,9 @@
 
         public int ModeleId { get; set; }
         public Modele Modele { get; set; }
+
+        public ICollection<Vehicule> Vehicules { get; set; }
     }
+
+
 }

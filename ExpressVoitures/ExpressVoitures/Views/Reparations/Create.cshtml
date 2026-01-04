@@ -1,0 +1,55 @@
+﻿@model ExpressVoitures.Models.Reparation
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Reparation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label>Véhicule</label>
+                <select asp-for="VehiculeId" class="form-control" asp-items="ViewBag.VehiculeId"></select>
+            </div>
+            <div class="form-group">
+                <label>Nouveau type de réparation (optionnel)</label>
+                <input name="NouveauType" class="form-control" />
+                <small class="text-muted">Si rempli, il sera ajouté à la liste.</small>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TypeReparationId" class="form-label">Type de réparation (optionnel)</label>
+                <select asp-for="TypeReparationId" class="form-select" asp-items="ViewBag.TypeReparationId">
+                    <option value="">-- Aucun --</option>
+                </select>
+            </div>
+
+
+            <div class="form-group">
+                <label>Coût de réparation (€)</label>
+                <input asp-for="Cout" type="number" step="0.01" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label>
+                    Date de disponibilité à la vente
+                </label>
+                <input asp-for="Date" type="date" class="form-control" />
+            </div>
+
+            <button type="submit" class="btn btn-primary mt-3">Créer</button>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

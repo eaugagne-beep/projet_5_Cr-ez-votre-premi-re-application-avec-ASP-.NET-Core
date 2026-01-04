@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityUser>
+
+@{
+    ViewData["Title"] = "Administration";
+}
+
+<h1 class="mb-4">👑 Administration</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Rôles</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>
+                    @string.Join(", ", ViewBag.UserRoles[user.Id])
+                </td>
+                <td>
+                    <a asp-action="MakeAdmin"
+                       asp-route-id="@user.Id"
+                       class="btn btn-sm btn-success">
+                        Ajouter Admin
+                    </a>
+
+                    <a asp-action="RemoveAdmin"
+                       asp-route-id="@user.Id"
+                       class="btn btn-sm btn-danger">
+                        Retirer Admin
+                    </a>
+
+                    <a asp-action="deleteUser"
+                       asp-route-id="@user.Id"
+                       class="btn btn-sm btn-warning"
+                       onclick="return confirm('Êtes-vous sûr de vouloir supprimer cet utilisateur ?');">
+                        Supprimer Utilisateur"
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

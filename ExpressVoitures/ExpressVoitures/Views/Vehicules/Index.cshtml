@@ -7,7 +7,10 @@
 <h1>Index</h1>
 
 <p>
+    @if (User.IsInRole("Admin"))
+{
     <a asp-action="Create">Create New</a>
+}
 </p>
 <table class="table">
     <thead>
@@ -19,7 +22,25 @@
                 @Html.DisplayNameFor(model => model.Annee)
             </th>
             <th>
+                @Html.DisplayNameFor(model => model.Marque)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modele)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.Finition)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateAchat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrixAchat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateVente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrixVente)
             </th>
             <th></th>
         </tr>
@@ -34,12 +55,50 @@
                 @Html.DisplayFor(modelItem => item.Annee)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Finition.FinitionId)
+                @Html.DisplayFor(modelItem => item.Marque.Nom)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.VehiculeId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.VehiculeId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.VehiculeId">Delete</a>
+                @Html.DisplayFor(modelItem => item.Modele.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Finition.Nom)
+            </td>
+             
+            <td>
+                @Html.DisplayFor(modelItem => item.DateAchat)
+            </td>
+                <td>
+                    @item.PrixAchat €
+                </td>
+
+
+            <td>
+                @Html.DisplayFor(modelItem => item.DateVente)
+            </td>
+                <td>
+                    @item.PrixVente €
+                </td>
+              
+                <td>
+                    @if (item.EstVendu)
+                    {
+                        <span class="badge bg-danger">Vendu</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">Disponible</span>
+                    }
+                </td>
+
+
+            <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.VehiculeId">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.VehiculeId">Delete</a>
+                    }
+                    <a asp-action="Details" asp-route-id="@item.VehiculeId">Details</a> |
+                
             </td>
         </tr>
 }

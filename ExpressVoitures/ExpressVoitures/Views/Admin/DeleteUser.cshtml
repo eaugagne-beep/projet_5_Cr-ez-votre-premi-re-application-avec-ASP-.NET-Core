@@ -1,0 +1,19 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityUser
+
+<h3>Supprimer cet utilisateur ?</h3>
+
+<p>
+    <strong>@Model.Email</strong>
+</p>
+
+<form asp-action="DeleteUser" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+
+    <button type="submit" class="btn btn-danger">
+        Oui, supprimer
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Annuler
+    </a>
+</form>

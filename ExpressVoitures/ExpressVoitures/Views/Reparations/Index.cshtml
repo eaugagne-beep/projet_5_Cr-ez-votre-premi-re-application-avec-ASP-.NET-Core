@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ExpressVoitures.Models.Reparation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        <a asp-action="Create">Create New</a>
+    }
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Vehicule)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TypeReparation)
+            </th>
+            <th>Coût de réparation</th>
+            <th>Date disponibilité à la vente</th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Vehicule.CodeVIN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeReparation.Nom)
+            </td>
+                <td>
+                    @item.Cout €
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.VehiculeId">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.VehiculeId">Delete</a>
+                    }
+                    <a asp-action="Details" asp-route-id="@item.VehiculeId">Details</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

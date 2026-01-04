@@ -5,6 +5,7 @@
         public int MarqueId { get; set; }
         public string Nom { get; set; }
 
-        public List<Modele> Modeles { get; set; }
+        public ICollection<Modele> Modeles { get; set; }
     }
+
 }

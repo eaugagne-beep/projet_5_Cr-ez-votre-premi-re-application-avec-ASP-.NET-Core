@@ -24,11 +24,68 @@
             @Html.DisplayFor(model => model.Annee)
         </dd>
         <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Marque)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Marque.Nom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Modele)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Modele.Nom)
+        </dd>
+        <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Finition)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Finition.FinitionId)
+            @Html.DisplayFor(model => model.Finition.Nom)
         </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateAchat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateAchat)
+        </dd>
+        <dt class="col-sm-2">
+        Prix d'achat
+        </dt>
+        <dd class="col-sm-10">
+            @Model.PrixAchat €
+            </dd>
+
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateVente)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateVente)
+        </dd>
+        <dt class="col-sm-2">
+            Prix de vente
+            </dt>
+        <dd class="col-sm-10">
+            @Model.PrixVente €
+        </dd>
+        @if (!string.IsNullOrEmpty(Model.ImagePath))
+        {
+            <img src="@Model.ImagePath" class="img-fluid mb-3" />
+        }
+
+        <p><strong>Description :</strong></p>
+        <p>@Model.Description</p>
+
+        <p>
+            <strong>Statut :</strong>
+            @if (Model.EstVendu)
+            {
+                <span class="badge bg-danger">Vendu</span>
+            }
+            else
+            {
+                <span class="badge bg-success">Disponible</span>
+            }
+        </p>
+
     </dl>
     
     <form asp-action="Delete">

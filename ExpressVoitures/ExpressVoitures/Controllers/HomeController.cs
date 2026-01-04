@@ -1,25 +1,28 @@
-using System.Diagnostics;
-using ExpressVoitures.Models;
+using ExpressVoitures.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ExpressVoitures.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly ApplicationDbContext _context;
+
+        public HomeController(ApplicationDbContext context)
         {
-            return View();
+            _context = context;
         }
 
-        public IActionResult Privacy()
+        public async Task<IActionResult> Index() // Afficher la liste des véhicules récents
         {
-            return View();
-        }
+            var vehicules = await _context.Vehicules
+                .Include(v => v.Marque)
+                .Include(v => v.Modele)
+                .Include(v => v.Finition)
+                .OrderByDescending(v => v.VehiculeId)
+                .ToListAsync();
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(vehicules);
         }
     }
 }

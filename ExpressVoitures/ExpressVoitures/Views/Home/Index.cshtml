@@ -1,8 +1,49 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<ExpressVoitures.Models.Vehicule>
+
+@{
+    ViewData["Title"] = "Accueil";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<h1 class="mb-4">Nos voitures</h1>
+
+<div class="row">
+    @foreach (var v in Model)
+    {
+        <div class="col-12 col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+
+                <img src="@(string.IsNullOrEmpty(v.ImagePath) ? "https://via.placeholder.com/600x300" : v.ImagePath)"
+                     class="card-img-top" alt="Voiture">
+
+                <div class="card-body">
+                    <h5 class="card-title">
+                        @(v.Marque?.Nom ?? "") @(v.Modele?.Nom ?? "")
+                    </h5>
+
+                    <p class="card-text mb-2">
+                        <strong>@(v.PrixVente ?? v.PrixAchat) €</strong>
+                    </p>
+
+                    @if (v.DateVente != null)
+                    {
+                        <span class="badge bg-danger">Vendu</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">Disponible</span>
+                    }
+                </div>
+
+                <div class="card-footer bg-white border-0 pb-3">
+                    <a asp-controller="Vehicules"
+                       asp-action="Details"
+                       asp-route-id="@v.VehiculeId"
+                       class="btn btn-primary">
+                        Voir
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    }
 </div>
